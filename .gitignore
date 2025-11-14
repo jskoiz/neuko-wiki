@@ -1,3 +1,6 @@
 # Sources directory - kept locally but not tracked in git
 sources/
 
+# Release notes - kept locally but not tracked in git
+RELEASE_NOTES.md
+

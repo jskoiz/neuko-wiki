@@ -162,3 +162,27 @@ This wiki is community-built and maintained. Contributions, corrections, and upd
 
 Welcome to the Neuko wiki. We're watching. 👁️
 
+---
+
+## References
+
+This wiki was built using information from community threads and documentation. The following threads provided valuable information that helped shape this wiki:
+
+### Community Recaps & Overviews
+
+- **[@satoshi_owl - Initial Briefing Thread](https://x.com/satoshi_owl/status/1983610368330231897)** - Comprehensive overview of Neuko's early days, badge distribution phases, and community formation. Provided foundational timeline and lore context.
+
+- **[@Sinsonx - Comprehensive Recap Thread](https://x.com/Sinsonx/status/1987638894570139812)** - Detailed recap covering lore, team background, bullish reasons, and upcoming events. Key source for understanding the project's organic growth and community dynamics.
+
+- **[@satoshi_owl - DEBRIEF#03](https://x.com/satoshi_owl/status/1985518909911679395)** - Update thread analyzing latest video puzzles, community shoutouts, hidden codes, and puzzle-solving techniques. Contributed to puzzle documentation and lore development.
+
+- **[@satoshi_owl - Video Analysis Thread](https://x.com/satoshi_owl/status/1984597354687721617)** - Deep dive into the Halloween ultimatum video, community member shoutouts (HEMLET CORP, Ribbit references), and puzzle clues. Helped document community culture and puzzle-solving process.
+
+### Puzzle-Solving & Discoveries
+
+- **[@thrax_nft - Puzzle Discovery Thread](https://x.com/thrax_nft/status/1983930928754782692)** - Technical investigation thread documenting the discovery of hidden console logs on neuko.ai, website code analysis, and puzzle-solving methodology. Critical source for website documentation and puzzle techniques.
+
+---
+
+*These threads are preserved in the `sources/` directory for reference. Full transcriptions and analysis from these threads have been integrated throughout the wiki.*
+
