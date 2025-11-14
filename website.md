@@ -105,10 +105,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Integrity checks
 
 **Directives**:
-- Study participant designations:
-  - "Rabbit" series with stress tests
-  - "Moth" with sealed units
-  - "Snake" with courier dispatch
 - "Zion-Campaign" directives
 - "Infrastructure Relocation Order"
 - Rabbit credentials to be distributed to all

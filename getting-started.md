@@ -67,9 +67,9 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 
 ### Badges
 
-- **Rabbit 🐰**: First phase badge (250 total), represents early stress tests
-- **Moth 🐝**: Second phase badge (750 total), represents sealed units
-- **Snake 🐍**: Third phase badge (distributed by community), represents couriers
+- **Rabbit 🐰**: First phase badge (250 total)
+- **Moth 🐝**: Second phase badge (750 total)
+- **Snake 🐍**: Third phase badge (distributed by community)
 
 ### Lore Terms
 

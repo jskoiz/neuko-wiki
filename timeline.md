@@ -173,7 +173,7 @@
 - **Video**: ~124 seconds, stop-motion clay figures discussing conspiracies
 - **Lore Reveals**:
   - MITER-Corp experiments on "homeless babies" to create psychic soldiers
-  - Badge phases explained (Rabbit for stress tests, Moth for sealed units, Snake for couriers)
+  - Badge phases explained
   - G*Boy escape causes "general chaos"
   - References "darker, insidious experiments"
 - **Significance**: Major lore dump, recaps entire story arc, hints at five core characters

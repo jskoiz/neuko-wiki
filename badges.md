@@ -11,10 +11,8 @@ Neuko's badge system consists of three NFT badge types distributed in phases to 
 ### Rabbit 🐰 Badge
 
 **Total Supply**: 250  
-**Phase**: Phase 1 - Early Stress Tests  
 **Distribution**: Airdropped first to 250 people (October 20-22, 2025)  
 **Visual**: Clean, pristine cases (suggesting new/first phase)  
-**Lore Meaning**: Represents early stress tests in MITER-Corp experiments  
 **Holder Benefits**: 
 - Received 2 Snake 🐍 badges each for distribution to people they thought would benefit the community
 - Early supporter credential
@@ -27,10 +25,8 @@ Neuko's badge system consists of three NFT badge types distributed in phases to 
 ### Moth 🐝 Badge
 
 **Total Supply**: 750  
-**Phase**: Phase 2 - Sealed Units  
 **Distribution**: Airdropped after Rabbits to next wave of supporters (October 20-22, 2025)  
 **Visual**: Slightly worn/used cases (suggesting second phase)  
-**Lore Meaning**: Represents sealed units in MITER-Corp experiments  
 **Holder Benefits**: 
 - Received 1 Snake 🐍 badge each for distribution to people they thought would benefit the community
 - Second wave supporter credential
@@ -43,10 +39,8 @@ Neuko's badge system consists of three NFT badge types distributed in phases to 
 ### Snake 🐍 Badge
 
 **Total Supply**: Variable (distributed to Rabbit/Moth holders)  
-**Phase**: Phase 3 - Couriers  
 **Distribution**: Given to Rabbit and Moth badge holders to distribute to people they thought would benefit the community (October 24, 2025)  
 **Visual**: Third phase badge  
-**Lore Meaning**: Represents couriers in MITER-Corp experiments  
 **Distribution Mechanics**:
 - Rabbit 🐰 holders: 2 Snake 🐍 badges each
 - Moth 🐝 holders: 1 Snake 🐍 badge each
@@ -250,14 +244,6 @@ From founder @SQU1NCH:
 ---
 
 ## Badge Lore Integration
-
-### In-Universe Meaning
-
-According to the latest lore (November 12 claymation video):
-
-- **Rabbit 🐰**: Early stress tests in MITER-Corp experiments
-- **Moth 🐝**: Sealed units in experimental phases
-- **Snake 🐍**: Couriers for distribution and recruitment
 
 ### Story Integration
 

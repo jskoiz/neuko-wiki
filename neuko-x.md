@@ -394,10 +394,6 @@
 
 **Lore Reveals**:
 - **MITER-Corp**: Fictional corporation conducting experiments (play on real-world MITRE)
-- **Badge Symbolism**:
-  - Rabbit 🐰: Early stress tests
-  - Moth 🐝: Sealed units
-  - Snake 🐍: Couriers
 - **G*Boy/G304**: Escaped subject causing chaos
 - **Experiments**: Psychic soldiers created from "homeless babies"
 - **Five Core Characters**: Hints at "Neuko gang" behind scenes
