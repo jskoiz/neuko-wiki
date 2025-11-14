@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated portal that serves as both a teaser and a puzzle layer. The site features a PIN unlock system requiring codes discovered through video puzzles, and contains hidden console logs with lore and directives.
+The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated portal that serves as both a teaser and a puzzle layer. The site features a PIN unlock system requiring codes discovered through video puzzles. Hidden console logs with lore and directives were discovered on [sj-securelab.net](https://sj-securelab.net/) in the `/dir` directory.
 
 ## Website Structure
 
@@ -52,14 +52,16 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 ### Discovery Process
 
 **Discoverer**: @thrax_nft  
+**Location**: [sj-securelab.net](https://sj-securelab.net/)  
 **Method**: Browser developer tools inspection  
 **Date**: October 30, 2025
 
 **Process**:
-1. Found disabled login portal for "Saint Juniper Research Campus"
+1. Found disabled login portal for "Saint Juniper Research Campus" on sj-securelab.net
 2. Inspected website source code
-3. Ran console command to extract .txt files
-4. Discovered G*Boy logs and directives
+3. Discovered hidden files in `/dir` directory
+4. Extracted .txt files from `/dir` directory
+5. Discovered G*Boy logs and directives
 
 
 ---
@@ -88,7 +90,7 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 ### G*Boy Logs
 
-**Content**: Extracted .txt files from console reveal G*Boy directives and protocols
+**Content**: Extracted .txt files from `/dir` directory on sj-securelab.net reveal G*Boy directives and protocols
 
 **Key Elements**:
 
@@ -149,24 +151,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Rewards for puzzle solvers
 
 
----
-
-## Website Features
-
-### Design Elements
-
-**Aesthetic**: 
-- Retro-futuristic
-- TV frame design
-- Minimalistic interface
-- Surveillance-themed
-
-**Color Scheme**:
-- Red background (logo)
-- Yellow figures (logo)
-- Dark/light contrast
-- Clean, simple design
-
 
 ---
 
@@ -179,63 +163,13 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 3. Enter PIN (if you have it)
 4. Access unlocked content
 
-### Developer Access
+### Developer Access (sj-securelab.net)
 
-1. Open browser developer tools (F12)
-2. Inspect console
-3. Extract .txt files
-4. Read G*Boy logs and directives
-
-
----
-
-## Hidden Elements
-
-### Console Logs
-
-**Location**: Browser developer console  
-**Content**: 
-- G*Boy logs
-- Badge protocols
-- Operational directives
-- Lore elements
-
-**Extraction**: Run console commands to extract .txt files
-
-### Source Code
-
-**Inspection**: View page source or inspect elements  
-**Findings**: 
-- Disabled login portal
-- Console log references
-- Hidden file references
-
-
----
-
-## Website Evolution
-
-### Initial State
-
-- Minimalistic design
-- PIN unlock prompt
-- No visible content
-- Puzzle-gated access
-
-### After PIN Discovery
-
-- Console logs accessible
-- G*Boy logs discovered
-- Lore elements revealed
-- Treasure trails initiated
-
-### Future Potential
-
-- More content may unlock
-- Additional puzzle layers
-- Further lore reveals
-- Platform features (speculated)
-
+1. Visit [sj-securelab.net](https://sj-securelab.net/)
+2. Open browser developer tools (F12)
+3. Inspect console and navigate to `/dir` directory
+4. Extract .txt files from `/dir` directory
+5. Read G*Boy logs and directives
 
 ---
 
@@ -243,11 +177,12 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 ### How to Access Console Logs
 
-1. **Open Website**: Visit [neuko.ai](https://neuko.ai)
+1. **Open Website**: Visit [sj-securelab.net](https://sj-securelab.net/)
 2. **Open Dev Tools**: Press F12 or right-click → Inspect
 3. **Go to Console Tab**: Click "Console" in developer tools
-4. **Extract Files**: Run commands to extract .txt files
-5. **Read Logs**: Analyze G*Boy logs and directives
+4. **Access /dir Directory**: Navigate to `/dir` directory to find hidden .txt files
+5. **Extract Files**: Extract .txt files from `/dir` directory
+6. **Read Logs**: Analyze G*Boy logs and directives
 
 ### How to Get PIN
 

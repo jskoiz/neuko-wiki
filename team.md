@@ -2,6 +2,10 @@
 
 > Founders, team members, and their philosophy.
 
+## Overview
+
+Neuko is built by a team with a proven track records in building NFT IP and communities.
+
 ## Team Roster
 
 ### Core Founders
@@ -12,13 +16,7 @@
 **@demdev007** - Developer  
 **@boris0chuck** - Developer  
 
-**Background**: 4/5 founders are ex-Doodles team members  
-**Status**: Doxxed with proven track records  
-**Proof of Work**: 
-- Speaking at NFT Paris (with @eleven88eth)
-- Austin speaking at Accelerate Art
-- Experience building NFT IP and communities
-
+**Background**: All founders are former Doodles team members  
 
 ---
 
@@ -61,24 +59,6 @@
 - "When appropriately leveraged, crypto can be an overwhelming force for good"
 - Commitment to equitable systems, not extraction
 - Belief in community resilience
-
-
----
-
-### Mindshare Metrics
-
-**Achievement**: 0.25% mindshare in 10 days (per cookie.fun)  
-**Comparison**:
-- Mad Lads: 0.02%
-- Animecoin: 0.03%
-- Doodles: 0.08%
-- Shiba Inu: 0.11%
-- Bonk: 0.20%
-- Bored Ape Yacht Club: 0.23%
-- Dogecoin: 0.23%
-
-**Significance**: Community generated conversation level comparable to legends, but in just 10 days
-
 
 ---
 
@@ -191,11 +171,11 @@
 
 ### Doodles Background
 
-**Experience**: 4/5 founders are ex-Doodles team members  
+**Experience**: 5/5 founders are ex-Doodles team members  
 **Track Record**: 
 - Proven ability to build NFT IP
 - Experience with community building
-- Speaking at major events (NFT Paris, Accelerate Art)
+- Speaking at major events (NFT Paris, Accelerate Art, Solana Accelerate)
 - Understanding of Web3 culture and dynamics
 
 **Why Leave**: 
@@ -264,6 +244,5 @@
 - [Project Overview](./project-overview.md) - Team's mission and approach
 - [Community](./community/overview.md) - How team builds community
 - [Timeline](./timeline.md) - Team actions and announcements
-- [Founder Insights](./founders.md) - Detailed founder statements (legacy page)
 
 

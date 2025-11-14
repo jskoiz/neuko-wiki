@@ -7,13 +7,13 @@
 ### October 11, 2025
 **First Teaser Post**
 - **Event**: Poetic reply posted: "i stood up i fell over i wept on the floor"
-- **Post ID**: `1976994494383112304`
+- **Post**: [View on X](https://x.com/neukoai/status/1976994494383112304)
 - **Significance**: First public signal from Neuko account, establishes cryptic tone
 
 ### October 13, 2025
 **Official Launch - "We're Watching"**
 - **Event**: First major post with launch video
-- **Post ID**: `1977763395408429229`
+- **Post**: [View on X](https://x.com/neukoai/status/1977763395408429229)
 - **Caption**: "we're watching"
 - **Video**: ~10 seconds, features hooded figure (G*Boy) in dark lab with monitors, breaking vending machine, walking dimly lit hallway
 - **Engagement**: 123K+ views organically, broke X algorithm without paid promotion
@@ -22,7 +22,7 @@
 ### October 17, 2025
 **"Early Matters" Badge Tease**
 - **Event**: Video teasing badge system
-- **Post ID**: `1979268208340406384`
+- **Post**: [View on X](https://x.com/neukoai/status/1979268208340406384)
 - **Caption**: "early matters"
 - **Video**: ~21 seconds, panoramic white lab with old computers, badge close-ups (Rabbit and Moth), ends with hooded figure in rainy alley
 - **Details**: Rabbit badges shown with clean cases, Moth badges slightly worn - hinting at distribution phases
@@ -32,7 +32,7 @@
 ### October 20, 2025
 **Cognitive Assessment Video**
 - **Event**: Badge distribution requirements announced
-- **Post ID**: `1980355518771392550`
+- **Post**: [View on X](https://x.com/neukoai/status/1980355518771392550)
 - **Caption**: *(blank)*
 - **Video**: ~48 seconds, black screen with breathing countdowns, flashes anime-style images (hospital, animals, fire)
 - **Requirements**: 
@@ -43,7 +43,7 @@
 ### October 22, 2025
 **Distribution Complete**
 - **Event**: Rabbit and Moth badge airdrops completed
-- **Post ID**: `1981125805104312473`
+- **Post**: [View on X](https://x.com/neukoai/status/1981125805104312473)
 - **Caption**: *(blank)*
 - **Video**: ~26 seconds, hands opening boxes with badges, screens show "Distribution Complete"
 - **Distribution**:
@@ -55,7 +55,7 @@
 ### October 24, 2025
 **Snake Badge Distribution Begins**
 - **Event**: Snake badges given to Rabbit/Moth holders to distribute to people they thought would benefit the community
-- **Post ID**: `1981740247504269582`
+- **Post**: [View on X](https://x.com/neukoai/status/1981740247504269582)
 - **Caption**: "🐰 = 2 🐍 🐝 = 1 🐍 monday"
 - **Video**: ~45 seconds, TV channels flipping through chaotic scenes (highway, news, snake handler, facility attack)
 - **Distribution Mechanics**:
@@ -68,7 +68,7 @@
 ### October 27, 2025
 **Puzzle Escalation - Channel Flipping**
 - **Event**: Complex puzzle video with multiple clues
-- **Post ID**: `1982894878280569063`
+- **Post**: [View on X](https://x.com/neukoai/status/1982894878280569063)
 - **Caption**: "dropping to distributors stage 1: complete stage 2: initiating"
 - **Video**: ~62 seconds, more TV channel flipping (jungle snake, taxi fight, news, record player, bedroom jacket)
 - **Puzzle Discovery**: 
@@ -100,7 +100,7 @@
 ### October 31, 2025
 **"Last Call" Ultimatum**
 - **Event**: 24-hour deadline for Snake badge distribution
-- **Post ID**: `1984362507784351883`
+- **Post**: [View on X](https://x.com/neukoai/status/1984362507784351883)
 - **Caption**: "last call, 🐍 hoarders"
 - **Video**: ~41 seconds, field operations recap with community shoutouts
 - **Message**: Rabbit 🐰 and Moth 🐝 holders who haven't distributed Snake 🐍 badges given 24-hour ultimatum
@@ -132,7 +132,7 @@
 ### November 5, 2025
 **Website Portal Video**
 - **Event**: Video revealing neuko.ai website
-- **Post ID**: `1986152753412919577`
+- **Post**: [View on X](https://x.com/neukoai/status/1986152753412919577)
 - **Caption**: "https://www.neuko.ai/"
 - **Video**: ~60 seconds, montage of animated hooded figures in fantastical scenes (desert, skate, bubble, party, mountain, fire, throne, dancing)
 - **Website**: 
@@ -154,7 +154,7 @@
 ### November 12, 2025
 **"Catch Up, Sneeb" Claymation**
 - **Event**: Lore-deepening claymation video
-- **Post ID**: `1988703965694111829`
+- **Post**: [View on X](https://x.com/neukoai/status/1988703965694111829)
 - **Caption**: "catch up, sneeb"
 - **Video**: ~124 seconds, stop-motion clay figures discussing conspiracies
 - **Lore Reveals**:
