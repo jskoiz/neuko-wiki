@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Welcome](README.md)
+* [Unofficial Neuko Wiki](README.md)
 
 ## Getting Started
 
@@ -44,6 +44,5 @@
 
 ## Maintenance
 
-* [Release Notes](RELEASE_NOTES.md)
+* [Release Notes](maintenance/release-notes.md)
 * [Future Cleanup](future-cleanup.md)
-
