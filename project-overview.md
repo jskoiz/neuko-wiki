@@ -84,8 +84,8 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 **4. Explore the Wiki**
 - Start with [Getting Started](./getting-started.md)
 - Read [Timeline](./timeline.md) for complete story
-- Study [Lore](./lore.md) and [Puzzles](./puzzles.md)
-- Understand [Badges](./badges.md) and [Community](./community.md)
+- Study [Lore](./lore.md) and [Puzzle Resources](./transmissions/puzzle-techniques.md)
+- Understand [Badges](./badges.md) and [Community](./community/overview.md)
 
 **Source**: `sources/getting-started.md`, `sources/info-dump.md`
 
@@ -191,11 +191,11 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 1. **[Getting Started](./getting-started.md)** - Quick overview and entry points
 2. **[Project Overview](./project-overview.md)** (you are here) - What Neuko is
 3. **[Timeline](./timeline.md)** - Complete chronological story
-4. **[Neuko X Transmissions](./neuko-x.md)** - Every video and post breakdown
+4. **[Neuko X Transmissions](./transmissions/overview.md)** - Every video and post breakdown
 5. **[Lore](./lore.md)** - Story and mythology
 6. **[Badges](./badges.md)** - Badge system explained
-7. **[Puzzles](./puzzles.md)** - Puzzle catalog and solutions
-8. **[Community](./community.md)** - Community culture and members
+7. **[Puzzle Resources](./transmissions/puzzle-techniques.md)** - Puzzle-solving techniques and resources
+8. **[Community](./community/overview.md)** - Community culture and members
 9. **[Team](./team.md)** - Founders and their philosophy
 10. **[Website](./website.md)** - neuko.ai portal documentation
 
@@ -221,7 +221,7 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - [Timeline](./timeline.md) - What's happened so far
 - [Lore](./lore.md) - Complete story
 - [Badges](./badges.md) - Badge system
-- [Community](./community.md) - Community culture
+- [Community](./community/overview.md) - Community culture
 - [Team](./team.md) - Founders and philosophy
 
 ## Sources

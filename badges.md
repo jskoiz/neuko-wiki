@@ -284,7 +284,7 @@ From founder @SQU1NCH:
 
 - [Timeline](./timeline.md) - Badge distribution events chronologically
 - [Lore](./lore.md) - Badge symbolism in the story
-- [Community](./community.md) - Community distribution and culture
+- [Community](./community/overview.md) - Community distribution and culture
 - [Getting Started](./getting-started.md) - How to get involved
 
 ## Sources

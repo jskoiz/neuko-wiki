@@ -96,7 +96,7 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 Start with these pages in order:
 1. **[Project Overview](./project-overview.md)** - High-level understanding
 2. **[Timeline](./timeline.md)** - Chronological events and milestones
-3. **[Neuko X Transmissions](./neuko-x.md)** - All videos and posts
+3. **[Neuko X Transmissions](./transmissions/overview.md)** - All videos and posts
 4. **[Lore](./lore.md)** - Story and mythology
 5. **[Badges](./badges.md)** - Badge system explained
 
@@ -189,11 +189,11 @@ No confirmed utilities yet, but theories include AI tools, generative art, or ev
 
 ### Q: How do I solve puzzles?
 
-**A**: See [Puzzles](./puzzles.md) page for:
+**A**: See [Puzzle-Solving Techniques](./transmissions/puzzle-techniques.md) for:
 - Puzzle types and techniques
-- Solved puzzles with solutions
 - Tools and methods used
-- Community puzzle solvers
+- See individual [post files](./transmissions/posts/) for solved puzzles with solutions
+- [Puzzle Contributors](./transmissions/puzzle-contributors.md) - Community puzzle solvers
 
 ### Q: What's next?
 
@@ -212,11 +212,11 @@ If you want to fully understand Neuko:
 1. **[Getting Started](./getting-started.md)** (you are here) - Quick overview
 2. **[Project Overview](./project-overview.md)** - What Neuko is
 3. **[Timeline](./timeline.md)** - Complete chronological events
-4. **[Neuko X Transmissions](./neuko-x.md)** - Every video/post breakdown
+4. **[Neuko X Transmissions](./transmissions/overview.md)** - Every video/post breakdown
 5. **[Lore](./lore.md)** - Complete story and mythology
 6. **[Badges](./badges.md)** - Badge system details
-7. **[Puzzles](./puzzles.md)** - Puzzle catalog and solutions
-8. **[Community](./community.md)** - Community culture and members
+7. **[Puzzle Resources](./transmissions/puzzle-techniques.md)** - Puzzle-solving techniques and resources
+8. **[Community](./community/overview.md)** - Community culture and members
 9. **[Team](./team.md)** - Founders and their philosophy
 10. **[Website](./website.md)** - neuko.ai portal documentation
 
@@ -224,12 +224,12 @@ If you want to fully understand Neuko:
 
 ## Key Community Members to Follow
 
-- **@satoshi_owl** - DEBRIEF series, puzzle documentation
-- **@Sinsonx** - Comprehensive recaps and analysis
-- **@thrax_nft** - Puzzle solver, website discovery
-- **@TheKeeperOfX** - Community onboarding, HEMLET meme
-- **@CharliegNFTeth** - Community culture, Ribbit meme
-- **@eleven88eth** - Puzzle collaboration, analysis
+- **@satoshi_owl** - DEBRIEF series, puzzle documentation ([Community Members](./community/members.md))
+- **@Sinsonx** - Comprehensive recaps and analysis ([Community Members](./community/members.md))
+- **@thrax_nft** - Puzzle solver, website discovery ([Puzzle Contributors](./transmissions/puzzle-contributors.md))
+- **@TheKeeperOfX** - Community onboarding, HEMLET meme ([Community Members](./community/members.md))
+- **@CharliegNFTeth** - Community culture, Ribbit meme ([Community Members](./community/members.md))
+- **@eleven88eth** - Puzzle collaboration, analysis ([Puzzle Contributors](./transmissions/puzzle-contributors.md))
 
 ---
 
@@ -238,7 +238,7 @@ If you want to fully understand Neuko:
 - [Project Overview](./project-overview.md) - What Neuko is
 - [Timeline](./timeline.md) - What's happened so far
 - [Badges](./badges.md) - Understanding the badge system
-- [Community](./community.md) - Joining the community
+- [Community](./community/overview.md) - Joining the community
 
 ## Sources
 

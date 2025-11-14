@@ -271,10 +271,10 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 ## Related Pages
 
 - [Timeline](./timeline.md) - Chronological events and lore reveals
-- [Neuko X Transmissions](./neuko-x.md) - Videos and posts with lore elements
-- [Puzzles](./puzzles.md) - Lore discoveries through puzzle-solving
+- [Neuko X Transmissions](./transmissions/overview.md) - Videos and posts with lore elements
+- [Puzzle Resources](./transmissions/puzzle-techniques.md) - Lore discoveries through puzzle-solving
 - [Badges](./badges.md) - Badge system and symbolism
-- [Community](./community.md) - Community-developed lore and culture
+- [Community](./community/overview.md) - Community-developed lore and culture
 
 ## Sources
 

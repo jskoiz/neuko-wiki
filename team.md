@@ -276,7 +276,7 @@
 ## Related Pages
 
 - [Project Overview](./project-overview.md) - Team's mission and approach
-- [Community](./community.md) - How team builds community
+- [Community](./community/overview.md) - How team builds community
 - [Timeline](./timeline.md) - Team actions and announcements
 - [Founder Insights](./founders.md) - Detailed founder statements (legacy page)
 

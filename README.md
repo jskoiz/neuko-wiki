@@ -22,13 +22,12 @@ This wiki is designed for newcomers and veterans alike. Whether you're just disc
 
 **Want to dive deeper?** Continue with:
 
-4. **[Neuko X Transmissions](./neuko-x.md)** - Every video and post breakdown
+4. **[Neuko X Transmissions](./transmissions/overview.md)** - Every video and post breakdown
 5. **[Lore](./lore.md)** - Complete story and mythology
-6. **[Puzzles](./puzzles.md)** - Puzzle catalog and solutions
-7. **[Badges](./badges.md)** - Badge system explained
-8. **[Community](./community.md)** - Community culture and members
-9. **[Team](./team.md)** - Founders and their philosophy
-10. **[Website](./website.md)** - neuko.ai portal documentation
+6. **[Badges](./badges.md)** - Badge system explained
+7. **[Community](./community/overview.md)** - Community culture and members
+8. **[Team](./team.md)** - Founders and their philosophy
+9. **[Website](./website.md)** - neuko.ai portal documentation
 
 ---
 
@@ -42,14 +41,14 @@ This wiki is designed for newcomers and veterans alike. Whether you're just disc
 
 ### Content & Story
 
-- **[Neuko X Transmissions](./neuko-x.md)** - Complete catalog of every X post/video with detailed breakdowns, puzzle clues, lore elements, and community reactions
+- **[Neuko X Transmissions](./transmissions/overview.md)** - Complete catalog of every X post/video with detailed breakdowns, puzzle clues, lore elements, and community reactions
 - **[Lore](./lore.md)** - Complete mythology: G*Boy story, MITER-Corp conspiracy, badge symbolism, and community-developed narrative elements
-- **[Puzzles](./puzzles.md)** - Puzzle catalog: types, solved puzzles with solutions, unsolved mysteries, and puzzle-solving contributors
+- **[Puzzle Resources](./transmissions/puzzle-techniques.md)** - Puzzle-solving techniques, contributors, philosophy, and unsolved mysteries
 
 ### Systems & Community
 
 - **[Badges](./badges.md)** - Badge system: Rabbit/Moth/Snake system, distribution phases, holder stats, and community distribution story
-- **[Community](./community.md)** - Community culture: key members, rituals, AMA summaries, and social experiment dynamics
+- **[Community](./community/overview.md)** - Community culture: key members, rituals, AMA summaries, and social experiment dynamics
 - **[Team](./team.md)** - Founders and team: complete roster, philosophy, Doodles background, and approach to community building
 - **[Website](./website.md)** - neuko.ai portal: PIN system, console logs discovered, and treasure trails
 
@@ -106,23 +105,23 @@ Each page includes:
 
 ### For Puzzle Solvers
 
-1. Puzzles → Neuko X Transmissions → Website
-2. Study solved puzzles and techniques
-3. Explore unsolved mysteries
-4. Connect with puzzle-solving community
+1. [Transmissions](./transmissions/overview.md) → [Puzzle Techniques](./transmissions/puzzle-techniques.md) → [Website](./website.md)
+2. Study solved puzzles in individual post files
+3. Explore [unsolved mysteries](./transmissions/unsolved.md)
+4. Connect with [puzzle-solving community](./transmissions/puzzle-contributors.md)
 
 ### For Lore Enthusiasts
 
-1. Lore → Timeline → Neuko X Transmissions
+1. Lore → Timeline → [Transmissions](./transmissions/overview.md)
 2. Study badge symbolism and story arc
 3. Explore community-developed lore
-4. Follow unsolved mysteries
+4. Follow [unsolved mysteries](./transmissions/unsolved.md)
 
 ### For Community Members
 
-1. Community → Badges → Team
-2. Understand community culture and values
-3. Learn about key members and rituals
+1. [Community](./community/overview.md) → Badges → Team
+2. Understand [community culture](./community/culture.md) and values
+3. Learn about [key members](./community/members.md) and rituals
 4. See how team builds community
 
 ---
@@ -151,8 +150,8 @@ See [Future Cleanup](./future-cleanup.md) for migration status and cleanup check
 - [How do I get started?](./getting-started.md)
 - [What are the badges?](./badges.md)
 - [What's the story?](./lore.md)
-- [How do I solve puzzles?](./puzzles.md)
-- [Who's in the community?](./community.md)
+- [How do I solve puzzles?](./transmissions/puzzle-techniques.md)
+- [Who's in the community?](./community/overview.md)
 - [Who are the founders?](./team.md)
 
 ---
