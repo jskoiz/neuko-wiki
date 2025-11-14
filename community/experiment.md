@@ -32,7 +32,6 @@ In a down market, would holders sell free NFTs or demonstrate loyalty?
 
 Demonstrated strong community values and conviction.
 
-**Source**: `sources/thread-2.md`, `sources/thread-3.md`
 
 ---
 
@@ -74,7 +73,6 @@ Demonstrated strong community values and conviction.
 - Low listings → steady floor → public perception of strength
 - Attracts long-term interest → reinforces loyalty
 
-**Source**: `sources/thread-2.md`
 
 ---
 
@@ -109,7 +107,6 @@ The Snake badge distribution was designed as a social experiment to test communi
 
 **Significance**: Demonstrated that community values engagement and contribution over quick profits
 
-**Source**: `sources/thread-1.md`, `sources/thread-2.md`, `sources/thread-3.md`
 
 ---
 
@@ -119,9 +116,4 @@ The Snake badge distribution was designed as a social experiment to test communi
 - [Overview](./overview.md) - Community overview
 - [Growth](./growth.md) - Growth metrics and results
 
-## Sources
-
-- `sources/thread-1.md` - Distribution recap
-- `sources/thread-2.md` - Social experiment analysis
-- `sources/thread-3.md` - Detailed distribution breakdown
 

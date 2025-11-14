@@ -47,8 +47,4 @@ Official launch, establishes core visual and narrative identity.
 - [Post #1: First Teaser](./post-1.md) - Previous teaser
 - [Post #3: Badge Tease](./post-3.md) - Next post
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
 

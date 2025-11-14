@@ -81,9 +81,4 @@ The puzzle-solving community has:
 - [Unsolved Mysteries](./unsolved.md) - Ongoing challenges
 - [Team Philosophy](../team.md) - Founders' approach
 
-## Sources
-
-- `sources/info-dump.md` - Comprehensive puzzle overview
-- `sources/thread-4.md` - Puzzle documentation
-- `sources/founders/austin-article.md` - Team philosophy
 

@@ -89,9 +89,4 @@ Website officially revealed, new puzzle layer unlocked.
 - [Unsolved Mysteries](../unsolved.md#treasure-trail-completion) - Treasure trail status
 - [Puzzle Contributors](../puzzle-contributors.md#thrax_nft) - The solver
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
-- `sources/thread-7.md`
 

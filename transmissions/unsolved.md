@@ -24,7 +24,6 @@ Some puzzles remain unsolved, and new mysteries continue to emerge. This page do
 - No actual consequences (test of loyalty)
 - Future lore reveals
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`
 
 ---
 
@@ -39,7 +38,6 @@ Some puzzles remain unsolved, and new mysteries continue to emerge. This page do
 
 **Analysis**: Community has not yet determined significance or connection to other elements.
 
-**Source**: `sources/thread-5.md`
 
 ---
 
@@ -54,7 +52,6 @@ Some puzzles remain unsolved, and new mysteries continue to emerge. This page do
 
 **Analysis**: Community continues to examine video for hidden elements. May contain spectrograms, contrast codes, or other puzzle types.
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -69,7 +66,6 @@ Some puzzles remain unsolved, and new mysteries continue to emerge. This page do
 
 **Analysis**: Treasure trail hunt continues. Community working to solve clues and complete the trail.
 
-**Source**: `sources/thread-3.md`
 
 ---
 
@@ -85,7 +81,6 @@ Some puzzles remain unsolved, and new mysteries continue to emerge. This page do
 
 **Analysis**: Some channel numbers analyzed, but not all have been connected to solutions. May be intentional false trails or unsolved codes.
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -120,10 +115,4 @@ If you discover something new or solve an unsolved mystery:
 - [Puzzle Contributors](./puzzle-contributors.md) - Solvers working on mysteries
 - [Transmissions Overview](./overview.md) - All posts with potential puzzles
 
-## Sources
-
-- `sources/thread-4.md` - DEBRIEF#03 with puzzle documentation
-- `sources/thread-5.md` - Ultimatum video puzzle analysis
-- `sources/thread-7.md` - Website console log discovery
-- `sources/info-dump.md` - Comprehensive puzzle overview
 

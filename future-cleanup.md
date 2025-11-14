@@ -1,21 +1,21 @@
-# Sources Migration Checklist
+# Migration Checklist
 
-> Status: Complete. All critical information from `sources/` has been ported to wiki pages.
+> Status: Complete. All critical information has been ported to wiki pages.
 
 ## Porting Tracker
 
-| Artifact | Location | Status | Ported To |
-|----------|----------|--------|-----------|
-| Info dump master doc | `sources/info-dump.md` | 🟢 Complete | `timeline.md`, `neuko-x.md`, `lore.md`, `project-overview.md`, `badges.md`, `community.md` |
-| Thread recap #1 (@satoshi_owl) | `sources/thread-1.md` | 🟢 Complete | `timeline.md`, `neuko-x.md`, `badges.md`, `community.md` |
-| Social experiment breakdown | `sources/thread-2.md` | 🟢 Complete | `badges.md`, `community.md` (social experiment analysis) |
-| Sinsonx recap | `sources/thread-3.md` | 🟢 Complete | `timeline.md`, `neuko-x.md`, `badges.md`, `community.md`, `project-overview.md` |
-| Debrief #03 | `sources/thread-4.md` | 🟢 Complete | `puzzles.md`, `timeline.md`, `neuko-x.md`, `community.md` |
-| Halloween ultimatum | `sources/thread-5.md` | 🟢 Complete | `timeline.md`, `neuko-x.md`, `puzzles.md`, `lore.md`, `community.md` |
-| Early catch-up thread | `sources/thread-6.md` | 🟢 Complete | `timeline.md`, `neuko-x.md` (overlaps with thread-1, unique elements included) |
-| Puzzle deep dive | `sources/thread-7.md` | 🟢 Complete | `puzzles.md`, `website.md`, `timeline.md`, `neuko-x.md` |
-| AMA recap | `sources/thread-8.md` | 🟢 Complete | `community.md` (AMA summary section) |
-| Founder essays | `sources/founders/*.md` | 🟢 Complete | `team.md`, `project-overview.md`, `community.md` |
+| Artifact | Status | Ported To |
+|----------|--------|-----------|
+| Info dump master doc | 🟢 Complete | `timeline.md`, `neuko-x.md`, `lore.md`, `project-overview.md`, `badges.md`, `community.md` |
+| Thread recap #1 (@satoshi_owl) | 🟢 Complete | `timeline.md`, `neuko-x.md`, `badges.md`, `community.md` |
+| Social experiment breakdown | 🟢 Complete | `badges.md`, `community.md` (social experiment analysis) |
+| Sinsonx recap | 🟢 Complete | `timeline.md`, `neuko-x.md`, `badges.md`, `community.md`, `project-overview.md` |
+| Debrief #03 | 🟢 Complete | `puzzles.md`, `timeline.md`, `neuko-x.md`, `community.md` |
+| Halloween ultimatum | 🟢 Complete | `timeline.md`, `neuko-x.md`, `puzzles.md`, `lore.md`, `community.md` |
+| Early catch-up thread | 🟢 Complete | `timeline.md`, `neuko-x.md` (overlaps with thread-1, unique elements included) |
+| Puzzle deep dive | 🟢 Complete | `puzzles.md`, `website.md`, `timeline.md`, `neuko-x.md` |
+| AMA recap | 🟢 Complete | `community.md` (AMA summary section) |
+| Founder essays | 🟢 Complete | `team.md`, `project-overview.md`, `community.md` |
 
 ## Migration Summary
 
@@ -50,32 +50,13 @@ All wiki pages have been created and populated:
 
 ### Ready for Archive
 
-All critical information from `sources/` has been successfully ported to organized wiki pages. The `sources/` directory can now be:
-
-1. **Archived** - Move to `archives/sources/` for historical reference
-2. **Deleted** - Remove if archival is not needed (information is preserved in wiki pages with citations)
-
-### Recommendation
-
-**Keep sources archived** for:
-- Historical reference
-- Verification of citations
-- Future updates if new information emerges
-- Research purposes
-
-**Archive Location**: `archives/sources/` (create if archiving)
-
-### Verification
-
-All wiki pages include source citations (e.g., `sources/thread-5.md`) pointing back to original files. This maintains provenance while keeping the wiki organized and newcomer-friendly.
+All critical information has been successfully ported to organized wiki pages.
 
 ## Next Steps
 
 1. ✅ All information ported - **COMPLETE**
 2. ✅ Cross-references added - **COMPLETE**
-3. ✅ Source citations included - **COMPLETE**
-4. ⏭️ Archive or delete `sources/` directory (optional)
-5. ⏭️ Update any external references if `sources/` is moved/deleted
+3. ✅ Migration complete - **COMPLETE**
 
 ## Notes
 

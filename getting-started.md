@@ -240,7 +240,4 @@ If you want to fully understand Neuko:
 - [Badges](./badges.md) - Understanding the badge system
 - [Community](./community/overview.md) - Joining the community
 
-## Sources
-
-Information compiled from source files in `sources/` directory. See individual pages for specific citations.
 

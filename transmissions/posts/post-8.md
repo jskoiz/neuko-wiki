@@ -77,8 +77,4 @@ Consequences of ultimatum still unknown.
 - [Unsolved Mysteries](../unsolved.md#sf-06-door) - SF-06 door significance
 - [Community Experiment](../../community/experiment.md) - Social experiment context
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-5.md`
 

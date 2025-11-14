@@ -20,7 +20,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 **Purpose**: Designed as a locked portal requiring puzzle-solving to access deeper content
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -29,7 +28,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 ### How It Works
 
 **Requirement**: Enter PIN to unlock website access  
-**PIN Source**: Codes discovered through video puzzles  
 **Discovery Process**: 
 1. Solve puzzles in videos (Post #7 - Channel Flipping)
 2. Identify community shoutouts
@@ -46,7 +44,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 **Combination**: These codes combine to form the website PIN
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/thread-7.md`
 
 ---
 
@@ -64,7 +61,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 3. Ran console command to extract .txt files
 4. Discovered G*Boy logs and directives
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -87,7 +83,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 **Significance**: Fictional research facility portal, part of lore
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -114,7 +109,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Reveals lore elements about experimental phases
 - Connects badges to in-universe protocols
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -136,7 +130,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Code extraction (console logs)
 - Website access (PIN system)
 
-**Source**: `sources/thread-7.md`, `sources/puzzles.md`
 
 ---
 
@@ -155,7 +148,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Community hunts for clues
 - Rewards for puzzle solvers
 
-**Source**: `sources/thread-3.md`
 
 ---
 
@@ -175,7 +167,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Dark/light contrast
 - Clean, simple design
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -195,7 +186,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 3. Extract .txt files
 4. Read G*Boy logs and directives
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -220,7 +210,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Console log references
 - Hidden file references
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -247,7 +236,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Further lore reveals
 - Platform features (speculated)
 
-**Source**: `sources/info-dump.md`, `sources/thread-7.md`
 
 ---
 
@@ -269,7 +257,6 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 4. **Get Code Parts**: Contact community members for code parts
 5. **Combine PIN**: Use codes to unlock website
 
-**Source**: `sources/thread-7.md`, `sources/puzzles.md`
 
 ---
 
@@ -280,11 +267,4 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - [Timeline](./timeline.md) - Website discovery events
 - [Post #9: Website Reveal](./transmissions/posts/post-9.md) - Website reveal video
 
-## Sources
-
-All website information cites original source files in `sources/` directory. Key sources:
-- `sources/thread-7.md` - Console log discovery and extraction
-- `sources/thread-4.md` - PIN system and puzzle connection
-- `sources/thread-5.md` - Website puzzle elements
-- `sources/info-dump.md` - Website overview and design
 

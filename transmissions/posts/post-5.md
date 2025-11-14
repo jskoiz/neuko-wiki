@@ -61,9 +61,4 @@ First two badge phases complete, Snake teased, first puzzle discovered.
 - [Puzzle-Solving Techniques](../puzzle-techniques.md#spectrogram-analysis) - How to analyze spectrograms
 - [Puzzle Contributors](../puzzle-contributors.md#0xstateoftheart) - The solver
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
-- `sources/thread-4.md`
 

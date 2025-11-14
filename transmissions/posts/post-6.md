@@ -69,9 +69,4 @@ Major social experiment begins, community takes control.
 - [Unsolved Mysteries](../unsolved.md#channel-number-codes) - Channel number codes
 - [Community Experiment](../../community/experiment.md) - Social experiment details
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
-- `sources/thread-7.md`
 

@@ -22,7 +22,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - 0.25% mindshare (higher than many established projects)
 - Team scheduled to speak at SolanaConf in early December 2025
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ---
 
@@ -58,7 +57,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - Community-generated conversation comparable to legends in just 10 days
 - 100% organic engagement
 
-**Source**: `sources/founders/austin-article-2.md`, `sources/thread-2.md`, `sources/info-dump.md`
 
 ---
 
@@ -87,7 +85,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - Study [Lore](./lore.md) and [Puzzle Resources](./transmissions/puzzle-techniques.md)
 - Understand [Badges](./badges.md) and [Community](./community/overview.md)
 
-**Source**: `sources/getting-started.md`, `sources/info-dump.md`
 
 ---
 
@@ -108,7 +105,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - **Design**: Minimalistic, puzzle-gated
 - **Features**: PIN unlock system, console logs, treasure trails
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -131,7 +127,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - Community-first approach
 - Long-term thinking over quick flips
 
-**Source**: `sources/founders/austin-article.md`, `sources/founders/austin-article-2.md`
 
 ---
 
@@ -154,7 +149,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 
 **Status**: Team emphasizes building over promises. No detailed roadmap published.
 
-**Source**: `sources/thread-3.md`, `sources/info-dump.md`
 
 ---
 
@@ -182,7 +176,6 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 
 **Status**: Relationship between badges, token, and utilities still undefined. Team focuses on building over promises.
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -224,11 +217,4 @@ Neuko is a Solana-based Web3 project that launched in mid-October 2025, combinin
 - [Community](./community/overview.md) - Community culture
 - [Team](./team.md) - Founders and philosophy
 
-## Sources
-
-All information cites original source files in `sources/` directory. Key sources:
-- `sources/info-dump.md` - Comprehensive project overview
-- `sources/founders/austin-article.md` - Mission and philosophy
-- `sources/founders/austin-article-2.md` - Why it matters
-- `sources/thread-3.md` - Current status and metrics
 

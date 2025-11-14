@@ -9,7 +9,6 @@
 - **Event**: Poetic reply posted: "i stood up i fell over i wept on the floor"
 - **Post ID**: `1976994494383112304`
 - **Significance**: First public signal from Neuko account, establishes cryptic tone
-- **Source**: `sources/info-dump.md`
 
 ### October 13, 2025
 **Official Launch - "We're Watching"**
@@ -19,7 +18,6 @@
 - **Video**: ~10 seconds, features hooded figure (G*Boy) in dark lab with monitors, breaking vending machine, walking dimly lit hallway
 - **Engagement**: 123K+ views organically, broke X algorithm without paid promotion
 - **Significance**: Official launch, establishes surveillance motif and G*Boy character
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ### October 17, 2025
 **"Early Matters" Badge Tease**
@@ -30,7 +28,6 @@
 - **Details**: Rabbit badges shown with clean cases, Moth badges slightly worn - hinting at distribution phases
 - **Significance**: Introduces Rabbit 🐰, Moth 🐝, and Snake 🐍 badge system
 - **Founder Comments**: All three founders (@austin_hurwitz, @SQU1NCH, @greenie_sr) posted cryptic "🐰" comment
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ### October 20, 2025
 **Cognitive Assessment Video**
@@ -42,7 +39,6 @@
   - 1,000 total badges (250 Rabbit 🐰, 750 Moth 🐝)
   - 24-hour deadline to DM Solana wallet address
 - **Significance**: First badge distribution phase begins, establishes "cognitive assessment" lore
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ### October 22, 2025
 **Distribution Complete**
@@ -55,7 +51,6 @@
   - Phase 2: 750 Moth 🐝 badges airdropped after Rabbits to next wave
 - **Puzzle Discovery**: Spectrograms hidden in audio reveal time machine and testing chamber imagery
 - **Significance**: First two badge phases complete, Snake 🐍 teased
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ### October 24, 2025
 **Snake Badge Distribution Begins**
@@ -69,7 +64,6 @@
   - Holders decide: Hold, Sell, or Give
 - **Significance**: Decentralized community-led distribution begins, major social experiment
 - **Puzzle Elements**: Channel numbers, background chatter, hidden numerical codes
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`, `sources/thread-7.md`
 
 ### October 27, 2025
 **Puzzle Escalation - Channel Flipping**
@@ -83,7 +77,6 @@
   - Codes deciphered: HOOTS-49, HOPS-13, STAYS-28
 - **Significance**: Leads to neuko.ai website unlock, most complex puzzle to date
 - **Community Impact**: Community members involved in puzzle distribution
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`, `sources/thread-4.md`, `sources/thread-7.md`
 
 ### October 28-29, 2025
 **Community Distribution Phase**
@@ -94,7 +87,6 @@
   - Over 1,100 unique badge holders by late October
   - Only 2-3% listed on Magic Eden (diamond-handed community)
 - **Significance**: Social experiment succeeds - community shows strong conviction and generosity
-- **Source**: `sources/thread-1.md`, `sources/thread-2.md`, `sources/thread-3.md`
 
 ### October 30, 2025
 **Website Puzzle Discovery**
@@ -104,7 +96,6 @@
   - Extracted .txt files from console reveal G*Boy logs
   - Contains badge protocols, integrity checks, "Zion-Campaign" directives
 - **Significance**: Major lore reveal, confirms planned nature of distribution
-- **Source**: `sources/thread-7.md`
 
 ### October 31, 2025
 **"Last Call" Ultimatum**
@@ -119,7 +110,6 @@
   - Hints at moving operations underground
 - **Puzzle Elements**: Hidden contrast codes in shoutout scenes
 - **Status**: Consequences of ultimatum still unknown
-- **Source**: `sources/info-dump.md`, `sources/thread-5.md`
 
 ## November 2025
 
@@ -128,7 +118,6 @@
 - **Event**: @satoshi_owl posts comprehensive debrief thread analyzing ultimatum video
 - **Content**: Breaks down shoutouts, puzzle clues, and lore elements
 - **Significance**: Community documentation and analysis begins
-- **Source**: `sources/thread-5.md`
 
 ### November 4, 2025
 **DEBRIEF#03**
@@ -139,7 +128,6 @@
   - Documents spectrogram discoveries
   - Notes unsolved mysteries
 - **Significance**: Establishes community documentation pattern
-- **Source**: `sources/thread-4.md`
 
 ### November 5, 2025
 **Website Portal Video**
@@ -153,7 +141,6 @@
   - Console logs accessible via browser dev tools
 - **Treasure Trail**: Post-video treasure trail initiated for wallet holding 3x badges
 - **Significance**: Website officially revealed, new puzzle layer unlocked
-- **Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ### November 9, 2025
 **Community Recap Thread**
@@ -163,7 +150,6 @@
   - Team background and bullish points
   - Upcoming SolanaConf mention
 - **Significance**: Community-driven onboarding content
-- **Source**: `sources/thread-3.md`
 
 ### November 12, 2025
 **"Catch Up, Sneeb" Claymation**
@@ -177,7 +163,6 @@
   - G*Boy escape causes "general chaos"
   - References "darker, insidious experiments"
 - **Significance**: Major lore dump, recaps entire story arc, hints at five core characters
-- **Source**: `sources/info-dump.md`
 
 ### November 13, 2025
 **Research Cutoff Date**
@@ -195,7 +180,6 @@
 **SolanaConf (Solana Breakpoint)**
 - **Event**: Team scheduled to speak about Neuko
 - **Significance**: Potential major catalyst and reveal event
-- **Source**: `sources/thread-3.md`
 
 ## Key Milestones
 
@@ -205,7 +189,4 @@
 - **Puzzle complexity**: Escalated from simple videos to multi-layer puzzles
 - **Market performance**: Strong floor prices with low sell pressure (2-3% listed)
 
-## Sources
-
-All timeline entries cite original source files in `sources/` directory. See individual entries for specific file references.
 

@@ -61,7 +61,4 @@ People are not just betting on future drop, they're buying into a culture. Neuko
 - [Overview](./overview.md) - Community overview
 - [Team](../team.md) - Team philosophy
 
-## Sources
-
-- `sources/thread-8.md` - AMA summary
 

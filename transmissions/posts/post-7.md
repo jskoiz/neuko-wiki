@@ -92,11 +92,4 @@ Leads to neuko.ai website unlock, demonstrates team watching community.
 - [Puzzle Contributors](../puzzle-contributors.md) - Key solvers
 - [Website PIN System](../../website.md#pin-unlock-system) - Website unlock details
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
-- `sources/thread-4.md`
-- `sources/thread-5.md`
-- `sources/thread-7.md`
 

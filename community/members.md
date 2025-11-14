@@ -96,9 +96,4 @@ The Neuko community includes puzzle solvers, content creators, community builder
 - [Culture](./culture.md) - Community identity markers and memes
 - [Overview](./overview.md) - Community overview
 
-## Sources
-
-- `sources/thread-5.md` - Community shoutouts and memes
-- `sources/thread-4.md` - Community members and culture
-- `sources/info-dump.md` - Comprehensive community overview
 

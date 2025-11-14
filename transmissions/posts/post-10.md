@@ -73,7 +73,4 @@ Major lore expansion, explains badge system, recaps story.
 - [Unsolved Mysteries](../unsolved.md#hidden-clues-in-latest-video) - Hidden clues analysis
 - [Lore](../../lore.md) - Complete lore documentation
 
-## Sources
-
-- `sources/info-dump.md`
 

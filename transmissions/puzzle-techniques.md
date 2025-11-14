@@ -28,7 +28,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 - Frequency analysis software
 - Audio editing tools
 
-**Source**: `sources/thread-4.md`, `sources/info-dump.md`
 
 ---
 
@@ -53,7 +52,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 - Video frame extraction tools
 - Contrast adjustment filters
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/thread-7.md`
 
 ---
 
@@ -86,7 +84,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 - Console command extraction
 - Source code inspection
 
-**Source**: `sources/thread-7.md`
 
 ---
 
@@ -115,7 +112,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 - Screenshot tools
 - Pattern recognition
 
-**Source**: `sources/thread-3.md`, `sources/thread-7.md`
 
 ---
 
@@ -147,7 +143,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 3. Receive code part from member
 4. Combine codes to form PIN
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/thread-7.md`
 
 ---
 
@@ -166,7 +161,6 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
   - Community puzzle hunt
   - Details still being solved
 
-**Source**: `sources/thread-3.md`
 
 ---
 
@@ -235,9 +229,4 @@ Puzzles in Neuko videos require various analysis techniques. This guide covers t
 - [Unsolved Mysteries](./unsolved.md) - Ongoing puzzles
 - [Transmissions Overview](./overview.md) - All posts with puzzles
 
-## Sources
-
-- `sources/thread-4.md` - DEBRIEF#03 with puzzle documentation
-- `sources/thread-7.md` - Website console log discovery
-- `sources/info-dump.md` - Comprehensive puzzle overview
 

@@ -23,7 +23,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Multi-layer puzzle solving
 - Video frame analysis
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/thread-7.md`
 
 ---
 
@@ -40,7 +39,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Spectrogram detection
 - Frequency analysis
 
-**Source**: `sources/thread-4.md`
 
 ---
 
@@ -57,7 +55,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Video analysis
 - Community coordination
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/thread-7.md`
 
 ---
 
@@ -76,7 +73,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Puzzle analysis
 - Community communication
 
-**Source**: `sources/thread-4.md`, `sources/info-dump.md`
 
 ---
 
@@ -95,7 +91,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Community updates
 - Analysis threads
 
-**Source**: `sources/thread-4.md`, `sources/thread-5.md`, `sources/info-dump.md`
 
 ---
 
@@ -112,7 +107,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Puzzle distribution
 - Member recognition
 
-**Source**: `sources/thread-5.md`, `sources/info-dump.md`
 
 ---
 
@@ -129,7 +123,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Puzzle distribution
 - Meme creation
 
-**Source**: `sources/thread-5.md`, `sources/info-dump.md`
 
 ---
 
@@ -145,7 +138,6 @@ The Neuko puzzle-solving community is collaborative and active. These contributo
 - Hidden clue detection
 - Documentation
 
-**Source**: `sources/info-dump.md`
 
 ---
 
@@ -169,10 +161,4 @@ Puzzle-solving in Neuko is highly collaborative:
 - [Unsolved Mysteries](./unsolved.md) - Ongoing puzzles
 - [Community Members](../community/members.md) - Full community member list
 
-## Sources
-
-- `sources/thread-4.md` - DEBRIEF#03 with puzzle documentation
-- `sources/thread-5.md` - Ultimatum video puzzle analysis
-- `sources/thread-7.md` - Website console log discovery
-- `sources/info-dump.md` - Comprehensive puzzle overview
 

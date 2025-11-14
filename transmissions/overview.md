@@ -65,7 +65,4 @@ All posts are documented individually:
 - [Community](../community/overview.md) - Community reactions and engagement
 - [Website](../website.md) - Website revealed in Post #9
 
-## Sources
-
-All post details cite original source files in `sources/` directory. See individual post files for specific file references.
 

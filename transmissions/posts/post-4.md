@@ -54,8 +54,4 @@ First badge distribution phase begins.
 - [Post #3: Badge Tease](./post-3.md) - Previous post
 - [Post #5: Distribution Complete](./post-5.md) - Badges distributed
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
 

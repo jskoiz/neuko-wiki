@@ -18,7 +18,6 @@ The Neuko community has developed strong cultural identity through shared marker
 - Community pressure (jokingly) to adopt red hoodie
 - Creates sense of unity and belonging
 
-**Source**: `sources/thread-8.md`, `sources/info-dump.md`
 
 ---
 
@@ -32,7 +31,6 @@ The Neuko community has developed strong cultural identity through shared marker
 - Operative status in the lore
 - Fun way to signal membership
 
-**Source**: `sources/thread-4.md`, `sources/info-dump.md`
 
 ---
 
@@ -45,7 +43,6 @@ The Neuko community has developed strong cultural identity through shared marker
 **Result**: HEMLET meme born, became part of culture  
 **Integration**: Team included "HEMLET CORP" branding in videos as shoutout
 
-**Source**: `sources/thread-5.md`
 
 ---
 
@@ -56,7 +53,6 @@ The Neuko community has developed strong cultural identity through shared marker
 **Integration**: Team included "Frog Gummies" in videos as shoutout  
 **Significance**: Community culture recognized by team
 
-**Source**: `sources/thread-5.md`
 
 ---
 
@@ -66,7 +62,6 @@ The Neuko community has developed strong cultural identity through shared marker
 **Integration**: Team included owl hoots in audio as shoutout  
 **Significance**: Community members woven into lore
 
-**Source**: `sources/thread-5.md`
 
 ---
 
@@ -76,7 +71,6 @@ The Neuko community has developed strong cultural identity through shared marker
 **Impact**: Trended on X, created shared lore  
 **Significance**: Community-driven content creation
 
-**Source**: `sources/thread-4.md`
 
 ---
 
@@ -117,9 +111,4 @@ The Neuko community has developed strong cultural identity through shared marker
 - [Overview](./overview.md) - Community overview
 - [Lore](../lore.md) - Community-developed lore elements
 
-## Sources
-
-- `sources/thread-5.md` - Community shoutouts and memes
-- `sources/thread-8.md` - AMA summary with culture discussion
-- `sources/info-dump.md` - Comprehensive community overview
 

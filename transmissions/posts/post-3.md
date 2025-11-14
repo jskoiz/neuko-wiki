@@ -46,8 +46,4 @@ First introduction of badge system, sets up distribution phases.
 - [Post #2: Official Launch](./post-2.md) - Previous post
 - [Post #4: Cognitive Assessment](./post-4.md) - Badge distribution begins
 
-## Sources
-
-- `sources/info-dump.md`
-- `sources/thread-3.md`
 

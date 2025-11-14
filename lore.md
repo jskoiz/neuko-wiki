@@ -28,7 +28,6 @@ Neuko's lore centers on a cryptic conspiracy involving psychic experiments, a my
 
 **Community Connection**: The "red hoodie" PFP has become a community identity marker, with members adopting red hoodie avatars to signal belonging to the Neuko tribe.
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`, `sources/thread-5.md`
 
 ---
 
@@ -52,7 +51,6 @@ Neuko's lore centers on a cryptic conspiracy involving psychic experiments, a my
 - References to "darker, insidious experiments"
 - Operations moved underground after G*Boy escape
 
-**Source**: `sources/info-dump.md`, `sources/thread-7.md`
 
 ---
 
@@ -75,7 +73,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - **Significance**: Represents decentralized recruitment phase
 - **Holder Role**: Community-led distribution, testing loyalty and conviction
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ---
 
@@ -105,7 +102,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - User actions woven into canon
 - Blurring of fiction and reality
 
-**Source**: `sources/info-dump.md`, `sources/thread-5.md`
 
 ---
 
@@ -135,7 +131,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - Community values freedom and authenticity
 - Anti-establishment themes
 
-**Source**: `sources/info-dump.md`, `sources/thread-2.md`, `sources/thread-8.md`
 
 ---
 
@@ -159,7 +154,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - **TV frames**: Portal/transmission aesthetic
 - **Badge pins**: Credentials and identity markers
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ---
 
@@ -190,7 +184,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - Copypastas trending on X
 - Collaborative puzzle-solving creates shared myths
 
-**Source**: `sources/thread-5.md`, `sources/thread-8.md`, `sources/info-dump.md`
 
 ---
 
@@ -214,7 +207,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - Community members involved in puzzle distribution
 - Real people woven into fictional narrative
 
-**Source**: `sources/founders/austin-article.md`, `sources/info-dump.md`
 
 ---
 
@@ -240,7 +232,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - What comes after the three badge phases?
 - Potential for evolving narrative
 
-**Source**: `sources/info-dump.md`, `sources/thread-4.md`, `sources/thread-5.md`
 
 ---
 
@@ -264,7 +255,6 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - Hidden codes reference lore elements
 - Community shoutouts connect real people to fiction
 
-**Source**: `sources/thread-7.md`, `sources/info-dump.md`
 
 ---
 
@@ -276,12 +266,4 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 - [Badges](./badges.md) - Badge system and symbolism
 - [Community](./community/overview.md) - Community-developed lore and culture
 
-## Sources
-
-All lore elements cite original source files in `sources/` directory. Key sources:
-- `sources/info-dump.md` - Comprehensive lore overview
-- `sources/thread-3.md` - Video breakdowns and lore reveals
-- `sources/thread-5.md` - Ultimatum video and G304 references
-- `sources/thread-7.md` - Website console logs and lore files
-- `sources/founders/austin-article.md` - Narrative philosophy
 

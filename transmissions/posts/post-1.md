@@ -33,7 +33,4 @@ Early signal before main launch, created initial curiosity.
 
 - [Post #2: Official Launch](./post-2.md) - First video post
 
-## Sources
-
-- `sources/info-dump.md`
 

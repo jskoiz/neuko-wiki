@@ -19,7 +19,6 @@
 - Austin speaking at Accelerate Art
 - Experience building NFT IP and communities
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ---
 
@@ -45,7 +44,6 @@
 - "The joy comes from the exploration of the unknown"
 - Emphasis on discovery and interpretation
 
-**Source**: `sources/founders/austin-article.md`
 
 ---
 
@@ -64,7 +62,6 @@
 - Commitment to equitable systems, not extraction
 - Belief in community resilience
 
-**Source**: `sources/founders/austin-article-2.md`
 
 ---
 
@@ -82,7 +79,6 @@
 
 **Significance**: Community generated conversation level comparable to legends, but in just 10 days
 
-**Source**: `sources/founders/austin-article-2.md`
 
 ---
 
@@ -98,7 +94,6 @@
 
 > "We started Neuko with a core belief that there were other people like us. Who wanted to build fun shit on the internet with their friends."
 
-**Source**: `sources/founders/austin-article.md`, `sources/founders/austin-article-2.md`
 
 ---
 
@@ -123,7 +118,6 @@
 - "A free market is the best market"
 - "Just be good to each other and stay safe"
 
-**Source**: `sources/founders/squinch-post-1.md`
 
 ---
 
@@ -137,7 +131,6 @@
 
 > "so if you don't want to keep your badge, sell it. a free market is the best market."
 
-**Source**: `sources/founders/squinch-post-1.md`
 
 ---
 
@@ -160,7 +153,6 @@
 - "it has so much heart. the people here are real and they're all fucking beautiful"
 - "people here create for each other, lift each other up, and pour energy into everything they touch"
 
-**Source**: `sources/founders/greenie-post01.md`
 
 ---
 
@@ -170,7 +162,6 @@
 
 > "we gave people a reason to join, but you give them a reason to stay."
 
-**Source**: `sources/founders/greenie-post01.md`
 
 ---
 
@@ -195,7 +186,6 @@
 - Building for equity, not extraction
 - "We're building something designed for equity, not extraction"
 
-**Source**: `sources/founders/austin-article.md`, `sources/founders/austin-article-2.md`
 
 ---
 
@@ -213,7 +203,6 @@
 - "This space can be unforgiving. To build something of substance that lasts feels like a mountain few have climbed"
 - Belief that there were others like them who wanted to build differently
 
-**Source**: `sources/founders/austin-article.md`, `sources/info-dump.md`
 
 ---
 
@@ -231,7 +220,6 @@
 - Involving community members in puzzles
 - Shoutouts and recognition for contributors
 
-**Source**: `sources/founders/austin-article.md`, `sources/info-dump.md`
 
 ---
 
@@ -251,7 +239,6 @@
 - Rewarding contributors and solvers
 - Building community into the narrative
 
-**Source**: `sources/info-dump.md`, `sources/thread-4.md`
 
 ---
 
@@ -269,7 +256,6 @@
 - Community-led distribution for Snake badges
 - Tests loyalty and conviction
 
-**Source**: `sources/founders/austin-article-2.md`, `sources/info-dump.md`
 
 ---
 
@@ -280,12 +266,4 @@
 - [Timeline](./timeline.md) - Team actions and announcements
 - [Founder Insights](./founders.md) - Detailed founder statements (legacy page)
 
-## Sources
-
-All team information cites original source files in `sources/` directory. Key sources:
-- `sources/founders/austin-article.md` - Austin's philosophy and approach
-- `sources/founders/austin-article-2.md` - Austin's origin story and metrics
-- `sources/founders/squinch-post-1.md` - SQU1NCH's badge philosophy
-- `sources/founders/greenie-post01.md` - Greenie's community appreciation
-- `sources/info-dump.md` - Team background and approach
 

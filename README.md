@@ -54,7 +54,7 @@ This wiki is designed for newcomers and veterans alike. Whether you're just disc
 
 ### Maintenance
 
-- **[Future Cleanup](./future-cleanup.md)** - Migration checklist for when it's safe to delete the raw `sources/` directory
+- **[Future Cleanup](./future-cleanup.md)** - Migration checklist
 
 ---
 
@@ -90,7 +90,6 @@ Each page includes:
 - Clear explanations for newcomers
 - Detailed information for deep dives
 - Cross-references to related pages
-- Source citations for verification
 
 ---
 
@@ -128,19 +127,7 @@ Each page includes:
 
 ## Contributing
 
-This wiki is compiled from source files in the `sources/` directory. All information cites original sources for verification.
-
-**Source Files**: Raw research and transcripts stored in `sources/` directory (temporary, will be archived once fully ported)
-
-**Wiki Pages**: Organized, newcomer-friendly documentation in the root directory
-
----
-
-## Referencing Sources
-
-All wiki pages cite original source files (e.g., `sources/thread-5.md`) alongside summaries. This keeps provenance clear while signaling which artifacts can be archived later.
-
-See [Future Cleanup](./future-cleanup.md) for migration status and cleanup checklist.
+**Wiki Pages**: Organized, newcomer-friendly documentation
 
 ---
 
@@ -160,7 +147,6 @@ See [Future Cleanup](./future-cleanup.md) for migration status and cleanup check
 
 **Last Updated**: November 2025  
 **Coverage**: Complete through November 13, 2025  
-**Sources**: All information ported from `sources/` directory  
 **Maintenance**: Wiki is a living document, updated as new information emerges
 
 ---

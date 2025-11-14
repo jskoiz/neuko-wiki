@@ -70,10 +70,4 @@ The Neuko community is characterized by high conviction, collaborative puzzle-so
 - [Lore](../lore.md) - Community-developed lore
 - [Team](../team.md) - Founders' community philosophy
 
-## Sources
-
-- `sources/thread-2.md` - Social experiment analysis
-- `sources/thread-3.md` - Community growth and engagement
-- `sources/thread-8.md` - AMA summary
-- `sources/info-dump.md` - Comprehensive community overview
 

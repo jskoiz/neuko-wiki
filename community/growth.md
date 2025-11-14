@@ -40,7 +40,6 @@ The Neuko community has grown organically from 0 followers to over 13,000 in jus
 - 100K+ views on major videos
 - 100% organic (no paid promotion)
 
-**Source**: `sources/info-dump.md`, `sources/founders/austin-article-2.md`, `sources/thread-3.md`
 
 ---
 
@@ -67,7 +66,6 @@ The Neuko community has grown organically from 0 followers to over 13,000 in jus
 - Memes and copypastas
 - Puzzle-solving documentation
 
-**Source**: `sources/info-dump.md`, `sources/thread-3.md`
 
 ---
 
@@ -85,7 +83,6 @@ The Neuko community has grown organically from 0 followers to over 13,000 in jus
 - Community self-organized distribution
 - Rewarded engagement and contribution
 
-**Source**: `sources/thread-2.md`, `sources/thread-3.md`, `sources/info-dump.md`
 
 ---
 
@@ -102,9 +99,4 @@ The Neuko community has grown organically from 0 followers to over 13,000 in jus
 - [Overview](./overview.md) - Community overview
 - [Members](./members.md) - Key contributors
 
-## Sources
-
-- `sources/info-dump.md` - Comprehensive growth overview
-- `sources/founders/austin-article-2.md` - Mindshare metrics
-- `sources/thread-3.md` - Growth and engagement details
 
