@@ -95,11 +95,10 @@ Neuko is a Solana-based Web3 project combining elements of AI, NFTs, and interac
 ### 1. Read the Wiki
 
 Start with these pages in order:
-1. **[Project Overview](./project-overview.md)** - High-level understanding
-2. **[Timeline](./timeline.md)** - Chronological events and milestones
-3. **[Neuko X Transmissions](./transmissions/overview.md)** - All videos and posts
-4. **[Lore](./lore.md)** - Story and mythology
-5. **[Badges](./badges.md)** - Badge system explained
+1. **[Timeline](./timeline.md)** - Chronological events and milestones
+2. **[Neuko X Transmissions](./transmissions/overview.md)** - All videos and posts
+3. **[Lore](./lore.md)** - Story and mythology
+4. **[Badges](./badges.md)** - Badge system explained
 
 ### 2. Watch the Videos
 

@@ -13,8 +13,7 @@
 **New to Neuko?** Start here:
 
 1. [**What's Neuko?**](whats-neuko.md) - 5-minute overview, terminology, and entry points
-2. [**Project Overview**](project-overview.md) - What Neuko is and why it matters
-3. [**Timeline**](timeline.md) - Complete chronological story of what's happened
+2. [**Timeline**](timeline.md) - Complete chronological story of what's happened
 
 **Want to dive deeper?** Continue with:
 
@@ -32,7 +31,6 @@
 ### Essential Reading
 
 * [**What's Neuko?**](whats-neuko.md) - Newcomer onboarding guide with quick overview, current status, terminology, and entry points
-* [**Project Overview**](project-overview.md) - High-level introduction: what Neuko is, mission, technology, and roadmap hints
 * [**Timeline**](timeline.md) - Complete chronological log of events, badge drops, video releases, puzzle discoveries, and milestones
 
 ### Content & Story
@@ -134,7 +132,7 @@ This wiki is community-built and maintained. Contributions, corrections, and upd
 
 ## Quick Links
 
-* [What is Neuko?](project-overview.md#what-neuko-ai-is)
+
 * [What's Neuko?](whats-neuko.md)
 * [What are the badges?](badges.md)
 * [What's the story?](lore.md)
