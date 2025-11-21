@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_11_05.mp4) (7.1MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_11_05.mp4)** (7.1MB)
+
 - Montage of old white TV sets
 - Each screen displays animated hooded figures (red cape, black eyes) in fantastical scenes:
   - Desert landscapes

@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_24.mp4) (3.3MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_24.mp4)** (3.3MB)
+
 - Old computers transmitting protocols (Phase 3)
 - Printers outputting papers
 - Logos appearing

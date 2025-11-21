@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_11_14.mp4) (21MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_11_14.mp4)** (21MB)
+
 *(Video description to be added)*
 
 ## Puzzle Elements

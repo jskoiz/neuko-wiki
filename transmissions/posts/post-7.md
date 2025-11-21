@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_27.mp4) (12MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_27.mp4)** (12MB)
+
 - More TV channel flipping:
   - Highway scene
   - Jungle snake

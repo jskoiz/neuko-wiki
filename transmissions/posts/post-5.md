@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_22.mp4) (2.1MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_22.mp4)** (2.1MB)
+
 - Hands opening green and red boxes containing badges
 - Computer screens showing "Distribution Complete, Field Deployment Authorized"
 - Badges being pinned or dropped

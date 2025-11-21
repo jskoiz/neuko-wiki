@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_17.mp4) (4.7MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_17.mp4)** (4.7MB)
+
 - Panoramic white lab with cluttered desks, old computers, papers
 - Zooms on details (notebooks, screens)
 - Transitions to badges pinned on clothing

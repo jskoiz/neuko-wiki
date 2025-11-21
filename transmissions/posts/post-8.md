@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_31.mp4) (8.1MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_31.mp4)** (8.1MB)
+
 - Aerial shots of forested industrial facility
 - Black/orange buildings with hexagonal logo flag
 - People in tactical gear with walkie-talkies
