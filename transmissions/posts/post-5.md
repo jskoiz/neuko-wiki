@@ -5,7 +5,9 @@
 **Caption**: *(blank)*  
 **Video Duration**: ~26 seconds
 
-## Video Description
+## Video & Description
+
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_22.mp4)** (2.1MB)
 
 - Hands opening green and red boxes containing badges
 - Computer screens showing "Distribution Complete, Field Deployment Authorized"

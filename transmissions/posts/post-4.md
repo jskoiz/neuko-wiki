@@ -5,7 +5,9 @@
 **Caption**: *(blank)*  
 **Video Duration**: ~48 seconds
 
-## Video Description
+## Video & Description
+
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_20.mp4)** (5.0MB)
 
 - Black screen with "STOP" text
 - Breathing instructions with countdowns ("Breathe In/Out")

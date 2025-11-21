@@ -5,7 +5,9 @@
 **Caption**: "last call, 🐍 hoarders"  
 **Video Duration**: ~41 seconds
 
-## Video Description
+## Video & Description
+
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_31.mp4)** (8.1MB)
 
 - Aerial shots of forested industrial facility
 - Black/orange buildings with hexagonal logo flag

@@ -5,7 +5,9 @@
 **Caption**: "early matters"  
 **Video Duration**: ~21 seconds
 
-## Video Description
+## Video & Description
+
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_17.mp4)** (4.7MB)
 
 - Panoramic white lab with cluttered desks, old computers, papers
 - Zooms on details (notebooks, screens)
