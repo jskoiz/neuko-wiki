@@ -7,7 +7,7 @@
 
 ## Video Description
 
-[https://github.com/jskoiz/neuko-wiki/blob/sean/post-media/media/videos/posts/post\_2025\_10\_13.mp4](https://github.com/jskoiz/neuko-wiki/blob/sean/post-media/media/videos/posts/post_2025_10_13.mp4)
+[https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5VvgOYQg7lBopCK10lUB%2Fuploads%2FN6IBBJdYzs3WZs6mA9st%2Fpost\_2025\_10\_13.mp4?alt=media\&token=d28b0ebf-0a07-4e05-9a46-326e849c29b4](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5VvgOYQg7lBopCK10lUB%2Fuploads%2FN6IBBJdYzs3WZs6mA9st%2Fpost_2025_10_13.mp4?alt=media\&token=d28b0ebf-0a07-4e05-9a46-326e849c29b4)
 
 * Red/yellow logo fades in/out
 * Hooded red-caped figure (G\*Boy) in dark lab with monitors
