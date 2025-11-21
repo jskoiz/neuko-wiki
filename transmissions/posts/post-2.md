@@ -12,6 +12,8 @@
   Your browser does not support the video tag. [Download video](../../media/videos/posts/post_2025_10_13.mp4) (1.3MB)
 </video>
 
+📹 **[Watch Video](../../media/videos/posts/post_2025_10_13.mp4)** (1.3MB)
+
 - Red/yellow logo fades in/out
 - Hooded red-caped figure (G*Boy) in dark lab with monitors
 - Figure interacts with equipment, smashes vending machine
