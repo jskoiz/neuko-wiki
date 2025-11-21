@@ -21,6 +21,7 @@ All posts are documented individually:
 - **[Post #9: Website Portal Reveal](./posts/post-9.md)** - November 5, 2025
 - **[Post #10: "Catch Up, Sneeb" - Claymation Lore Dump](./posts/post-10.md)** - November 12, 2025
 - **[Post #11: [Title TBD]](./posts/post-11.md)** - November 14, 2025
+- **[Post #12: [TitleTBD]](./posts/post-12.md)** - November 19, 2025
 
 ## Engagement Summary
 
