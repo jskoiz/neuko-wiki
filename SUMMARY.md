@@ -1,48 +1,36 @@
 # Table of contents
 
-* [Unofficial Neuko Wiki](README.md)
+* [Home](README.md)
 
-## What's Neuko?
-
+## Start Here
 * [What's Neuko?](whats-neuko.md)
 * [Timeline](timeline.md)
 
-## Content & Story
-
-* [Neuko X Transmissions](transmissions/overview.md)
-  * [Post 1](transmissions/posts/post-1.md)
-  * [Post 2](transmissions/posts/post-2.md)
-  * [Post 3](transmissions/posts/post-3.md)
-  * [Post 4](transmissions/posts/post-4.md)
-  * [Post 5](transmissions/posts/post-5.md)
-  * [Post 6](transmissions/posts/post-6.md)
-  * [Post 7](transmissions/posts/post-7.md)
-  * [Post 8](transmissions/posts/post-8.md)
-  * [Post 9](transmissions/posts/post-9.md)
-  * [Post 10](transmissions/posts/post-10.md)
-  * [Post 11](transmissions/posts/post-11.md)
-  * [Post 12](transmissions/posts/post-12.md)
+## The Story
 * [Lore](lore.md)
+* [Transmissions](transmissions/overview.md)
+  * [Post 1: First Teaser](transmissions/posts/post-1.md)
+  * [Post 2: We're Watching](transmissions/posts/post-2.md)
+  * [Post 3: Early Matters](transmissions/posts/post-3.md)
+  * [Post 4: Cognitive Assessment](transmissions/posts/post-4.md)
+  * [Post 5: Distribution Complete](transmissions/posts/post-5.md)
+  * [Post 6: Snake Badge Begins](transmissions/posts/post-6.md)
+  * [Post 7: Channel Flipping](transmissions/posts/post-7.md)
+  * [Post 8: Last Call](transmissions/posts/post-8.md)
+  * [Post 9: Website Portal](transmissions/posts/post-9.md)
+  * [Post 10: Catch Up, Sneeb](transmissions/posts/post-10.md)
+  * [Post 11: [Title TBD]](transmissions/posts/post-11.md)
+  * [Post 12: [Title TBD]](transmissions/posts/post-12.md)
 
-## Systems & Community
-
+## The Ecosystem
 * [Badges](badges.md)
 * [Community](community/overview.md)
-  * [Culture](community/culture.md)
-  * [Members](community/members.md)
-  * [AMA](community/ama.md)
-  * [Growth](community/growth.md)
-  * [Experiment](community/experiment.md)
 * [Team](team.md)
 * [Website](website.md)
 
-## Puzzle Resources
-
-* [Puzzle Techniques](transmissions/puzzle-techniques.md)
-* [Puzzle Philosophy](transmissions/puzzle-philosophy.md)
-* [Puzzle Contributors](transmissions/puzzle-contributors.md)
+## Puzzle Guide
+* [Techniques & Solvers](transmissions/puzzle-guide.md)
 * [Unsolved Mysteries](transmissions/unsolved.md)
 
 ## Maintenance
-
 * [Release Notes](maintenance/release-notes.md)

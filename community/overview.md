@@ -1,73 +1,59 @@
 # Neuko Community
 
-> Community culture, key members, rituals, and social experiment dynamics.
+> **High conviction, collaborative puzzle-solving, and a strong cultural identity.**
 
-## Overview
+The Neuko community ("Operatives") is characterized by organic growth and deep engagement. Unlike typical "wen mint" discords, this community formed around solving puzzles, decoding lore, and a shared social experiment.
 
-The Neuko community is characterized by high conviction, collaborative puzzle-solving, and strong cultural identity. The team designed a social experiment around badge distribution that tested community values, resulting in a diamond-handed, engagement-focused community that self-organized to reward contribution over quick profits.
+## Culture & Values
 
-## Core Values
+### Core Philosophy
+*   **Engagement Over Extraction**: Rewards those who contribute, not just extract value.
+*   **Collaboration Over Competition**: Puzzles are solved together in public threads.
+*   **Diamond Hands**: Extremely low sell pressure (2-3% listed) despite a down market.
 
-### 1. Engagement Over Extraction
+### Identity Markers
+*   **Red Hoodie PFP**: Members adopt the "G*Boy" red hoodie as a visual tribe signal.
+*   **Operative Designations**: Many use the format `OPERATIVE {Designation:; #:XXX}` in their bio.
 
-- Rewards those who interact, create, and contribute
-- No whitelist grinds or mercenary tactics
-- Community values authenticity
+### Memes & Rituals
+*   **HEMLET**: Originating from a typo ("The helmet stays on" → "HEMLET"), this became an official brand element referenced by the team ("HEMLET CORP").
+*   **Ribbit**: A community meme ("Frog Gummies") that was also acknowledged in official videos.
+*   **Owl Hoots**: Audio shoutouts to community member @satoshi_owl in official transmissions.
 
-### 2. Collaboration Over Competition
+## The "Snake Badge" Experiment
 
-- Puzzle-solving is collaborative
-- Community members help each other
-- Shared knowledge and discoveries
+Phase 3 (Snake Badges) was a social experiment in **trust and distribution**.
+*   **The Setup**: The team gave Snake badges to existing holders with zero instructions. They could Sell, Hold, or Gift.
+*   **The Result**: The vast majority chose to **gift** them to active community members, effectively decentralizing the onboarding process.
+*   **The Lesson**: This proved the community valued long-term growth and "skin in the game" over quick profits.
 
-### 3. Conviction Over Quick Flips
+## Growth Stats (Nov 2025)
 
-- Diamond hands (low sell pressure)
-- Long-term thinking
-- Belief in the project and team
+*   **Followers**: 0 → 13,000+ in ~4 weeks (100% organic).
+*   **Mindshare**: ~0.25% (higher than many established blue chips).
+*   **Holders**: 1,100+ unique badge holders.
+*   **Listings**: <3% listed on marketplaces.
 
-### 4. Mystery and Discovery
+## Key Operatives
 
-- Attracts "dot-connectors" who enjoy decoding
-- No explicit roadmap or cheat sheet
-- Exploration and interpretation valued
+The community is built by its members. Here are some key figures to follow:
 
-## Community Philosophy
+### Puzzle Solvers
+*   **[@thrax_nft](https://x.com/thrax_nft)** ("The Detective"): Discovered console logs and website secrets.
+*   **[@0xstateoftheart](https://x.com/0xstateoftheart)**: Audio analysis pioneer (spectrograms).
+*   **[@eleven88eth](https://x.com/eleven88eth)**: Complex puzzle coordination.
 
-### Team Approach
+### Community Voices
+*   **[@satoshi_owl](https://x.com/satoshi_owl)**: Writes the "DEBRIEF" series documenting lore.
+*   **[@Sinsonx](https://x.com/Sinsonx)**: Comprehensive recaps and onboarding threads.
+*   **[@TheKeeperOfX](https://x.com/TheKeeperOfX)**: "The Keeper" – onboarding and HEMLET meme originator.
 
-**Watching Community**: Team actively monitors engagement to curate puzzle distribution and recognize contributors
-
-**Involving Members**: Real community members receive codes to distribute, blurring fiction and reality
-
-**Rewarding Engagement**: Shoutouts, recognition, and involvement in puzzles for active contributors
-
-**No Mercenary Tactics**: No paid KOLs, partnerships, or backdoor deals
-
-### Community Response
-
-**Diamond Hands**: Strong conviction, low sell pressure (2-3% listed)
-
-**Self-Organization**: Community organized distribution channels and onboarding
-
-**Collaboration**: Puzzle-solving and content creation are collaborative
-
-**Culture Building**: Memes, rituals, and shared identity markers
-
-## Community Sections
-
-- **[Members](./members.md)** - Key community members (puzzle solvers, voices, builders)
-- **[Culture](./culture.md)** - Identity markers (red hoodie, operative designations), memes, rituals
-- **[Growth](./growth.md)** - Growth metrics, engagement patterns, statistics
-- **[Experiment](./experiment.md)** - Social experiment analysis (Snake badge distribution)
-- **[AMA](./ama.md)** - AMA summary and key points
+## AMA Highlights (Nov 2025)
+*   **Community First**: The team emphasized they are building a "social layer" first, product second.
+*   **Consistency**: "Showing up" is the most valuable currency in this ecosystem.
+*   **No Roadmap**: The mystery *is* the product.
 
 ## Related Pages
-
-- [What's Neuko?](../whats-neuko.md) - How to join the community
-- [Badges](../badges.md) - Community distribution story
-- [Transmissions](../transmissions/overview.md) - Community reactions to posts
-- [Lore](../lore.md) - Community-developed lore
-- [Team](../team.md) - Founders' community philosophy
-
-
+*   [Badges](../badges.md)
+*   [Lore](../lore.md)
+*   [Transmissions](../transmissions/overview.md)
