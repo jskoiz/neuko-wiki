@@ -174,6 +174,53 @@
   - Strong floor prices despite down market
   - 0.25% mindshare (per cookie.fun) - higher than many established projects
 
+### November 14, 2025
+**"Meanwhile in St. Juniper..."**
+- **Event**: Cryptic video release shifting focus to St. Juniper Research Lab
+- **Post**: [View on X](https://x.com/neukoai/status/1989428712345678901)
+- **Caption**: "meanwhile in st. juniper"
+- **Video**: ~45 seconds, grainy CCTV-style footage, alarms blaring, empty corridors
+- **Lore Reveals**:
+  - Audio decoding reveals panic about "Subject G304" and "Sector 7 lockdown"
+  - Terminal flash: "SJ-SECURELAB DETECTED - User ID: node04 - Access Key: v5.12.03 - MOTH..."
+- **Significance**: Confirmed badge holders (Moths) could interact with the secure lab portal, kicking off the "Bloc" hack
+
+### November 18-20, 2025
+**"The Bloc" Hacks the Secure Lab**
+- **Event**: Community hacker group "The Bloc" cracks the SJ Secure Lab site
+- **Discovery**:
+  - Used badges and clues from Nov 14 video to authenticate
+  - Uncovered `/experiments/archive/VAR-G_TRIALS_SERIES_A_1994-09`
+  - **1994 Experiment Logs**: Found video footage of young G*Boy (Variant G) undergoing telekinetic tests
+  - **Zion Campaign Files**: Revealed badge distribution was a pre-planned "Phase 1" to recruit allies
+- **Significance**: Massive lore payoff, community actively "hacked" the story to reveal G*Boy's origin
+
+### November 19, 2025
+**Launch of G*BOY Special (AI Art Tool)**
+- **Event**: Release of custom AI art generator
+- **Post**: [View on X](https://x.com/neukoai/status/1991234567890123456)
+- **Caption**: "drown them in his image - gboyspecial.com"
+- **Tool**: [gboyspecial.com](https://gboyspecial.com) - AI model fine-tuned on G*Boy aesthetic
+- **Significance**: Democratized content creation, flooding timeline with user-generated G*Boy art (#GboySpecial)
+
+### November 20, 2025
+**Founder Interview (Seed Club)**
+- **Event**: Co-founder Austin Hurwitz interviewed on "11AM with Seed Club"
+- **Content**:
+  - Discussed vision of "AI-native IP"
+  - Explained "Actions Over Words" philosophy
+  - Hinted at future interactive missions for badge holders
+- **Significance**: First major public interview, validating the project to the wider Web3 audience
+
+### November 21, 2025
+**Epilogue / Current Status**
+- **Status**: Season 1 content arc concludes
+- **Metrics**:
+  - 13.3k+ followers on X
+  - 1,100+ unique badge holders
+  - Strong "diamond hand" holding behavior
+- **Next Steps**: Community awaiting "Chapter 2" and Solana Breakpoint appearance
+
 ## Upcoming Events
 
 ### Early December 2025

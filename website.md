@@ -72,8 +72,8 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 
 **Name**: "Saint Juniper Research Campus - Secure Access Portal"  
 **Version**: 5.12.03  
-**Status**: LOGIN DISABLED  
-**Fields**: User ID and Access Key (disabled)  
+**Status**: **BREACHED** (as of Nov 18, 2025)  
+**Fields**: User ID and Access Key (Previously disabled, now accessible via badge auth)  
 **Notices**:
 - Access temporarily disabled
 - Migration authorized under Project Continuum
@@ -83,7 +83,12 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Signed with squiggly signature
 - Footer: Unauthorized access prohibited under Directive 14-C
 
-**Significance**: Fictional research facility portal, part of lore
+**Breach Details**:
+- **Hackers**: "The Bloc" (community group)
+- **Method**: Used Rabbit/Moth badges as authentication keys
+- **Discovery**: Unlocked `/experiments/archive` containing 1994 video logs of Variant G
+
+**Significance**: Fictional research facility portal, part of lore. The breach proved that badges have digital utility as "keys" to lore.
 
 
 ---
@@ -151,6 +156,25 @@ The Neuko website ([neuko.ai](https://neuko.ai)) is a minimalistic, puzzle-gated
 - Rewards for puzzle solvers
 
 
+
+---
+
+## G*BOY Special (AI Tool)
+
+### Overview
+**URL**: [gboyspecial.com](https://gboyspecial.com)  
+**Launched**: November 19, 2025  
+**Purpose**: A custom AI art generator fine-tuned on the G*Boy aesthetic.
+
+### Features
+- **Prompting**: Users can type text prompts to generate G*Boy images.
+- **Style**: Consistent "Neuko" style (red hoodie, cinematic lighting, clay/3D render vibe).
+- **Community Use**: Encourages fans to "drown them in his image" by sharing creations.
+
+### Significance
+- **Democratization**: Puts the team's creative tools into the hands of the community.
+- **IP Expansion**: Crowdsources the visual identity of G*Boy.
+- **AI-Native**: Reinforces Neuko's identity as an AI-native IP.
 
 ---
 

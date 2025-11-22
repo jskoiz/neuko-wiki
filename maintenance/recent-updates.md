@@ -1,6 +1,13 @@
 # 🔄 Recent Updates
 
-### November 21, 2025
+### November 21, 2025 (Late)
+*   **Season 1 Content Update**:
+    *   **Timeline**: Added events from Nov 14-21 (St. Juniper, The Bloc, G*Boy Special).
+    *   **Lore**: Added sections for "The Bloc" and "1994 Archives".
+    *   **Website**: Documented the Secure Lab breach and G*BOY Special tool.
+    *   **Overview**: Updated metrics and added AI tool to official channels.
+
+### November 21, 2025 (Early)
 *   **Wiki Refactor**: Major cleanup of the wiki structure.
     *   Consolidated 5 separate community pages into a single **[Community Overview](../community/overview.md)**.
     *   Merged puzzle philosophy and techniques into a master **[Puzzle Guide](../transmissions/puzzle-guide.md)**.

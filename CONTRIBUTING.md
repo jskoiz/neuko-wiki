@@ -11,13 +11,12 @@ We need your help to keep this resource accurate, up-to-date, and visually stunn
 *   **What to do**: Take clear screenshots of key moments in videos, tweets, or website easter eggs.
 *   **Where to put them**: Add them to the relevant Post pages in the `transmissions/posts/` folder.
 
-### 2. 🎨 G*Boy Special Documentation
-**The Mission**: A new AI art builder tool has launched at [gboyspecial.com](https://gboyspecial.com). This is a major tool for the ecosystem.
-*   **What to do**: Create a new page (`website/gboyspecial.md`) explaining:
-    *   How to use the tool.
-    *   What the "prompts" or inputs do.
-    *   Showcase some generated examples.
-    *   Explain its connection to the lore (if any).
+### 2. 🎨 G*Boy Special Examples
+**The Mission**: We have basic info on the [G*Boy Special](../website.md#gboy-special-ai-tool), but we need to show what it can do.
+*   **What to do**: Create a gallery page or expand the section with:
+    *   Best "prompts" to get cool results.
+    *   Showcase of community-generated art.
+    *   Tips and tricks for the tool.
 
 ### 3. 🖼️ Community Art Spotlight
 **The Mission**: Our community is incredibly creative. We need a dedicated space to showcase the best fan art, memes, and derivatives.

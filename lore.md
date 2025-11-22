@@ -111,6 +111,23 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 
 ***
 
+## The 1994 Archives (Variant G)
+
+Discovered by "The Bloc" in November 2025, these archived video logs from September 1994 reveal the origin of G*Boy.
+
+### The Experiments
+*   **Subject**: Variant G (Series A) - a young boy
+*   **Location**: Saint Juniper Research Campus (Sector 7)
+*   **Tests**: Telekinetic abilities, EEG readings, stress tests
+*   **Outcome**: Subject showed immense power but high instability. The footage confirms G*Boy was a child test subject.
+
+### The Zion Campaign
+*   **Purpose**: Files reveal the badge distribution was a pre-planned "Phase 1" operation.
+*   **Goal**: To recruit a network of allies (operatives) outside the facility to aid G*Boy.
+*   **Implication**: The community is not just observing; they are the "Zion" network activated to help the subject.
+
+***
+
 ## Key Themes
 
 ### Surveillance and Watching
@@ -199,6 +216,11 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 * Copypastas trending on X
 * Collaborative puzzle-solving creates shared myths
 
+### "The Bloc"
+*   **Identity**: A self-organized group of elite community puzzle-solvers and "hackers."
+*   **Achievement**: Cracked the SJ Secure Lab portal using badge credentials and decoded audio clues.
+*   **Role**: They serve as the community's vanguard for technical challenges, effectively "infiltrating" MITER-Corp's digital defenses.
+
 ***
 
 ## Narrative Philosophy
@@ -251,6 +273,10 @@ The three badge types (Rabbit 🐰, Moth 🐝, Snake 🐍) represent different p
 * References to "darker, insidious experiments"
 * What comes after the three badge phases?
 * Potential for evolving narrative
+
+### The Other Variants
+*   **Discovery**: 1994 logs mention "Variant B" and "Variant C".
+*   **Mystery**: Who are they? Are they other characters in the Neuko gang? Did they escape too?
 
 ***
 

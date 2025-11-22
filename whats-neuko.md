@@ -3,7 +3,7 @@
 **Neuko is a story-driven, community-driven project on Solana built by a credible and well-respected team. It is still very early with much to uncover — driven by lore, badges, and community discovery.**
 
 > **Status (Nov 2025)**
-> Launched Oct 2025 · 1,100+ badge holders · 3 phases complete (Rabbit → Moth → Snake) · Strong floor, <3% listed · Still extremely early — tons unsolved.
+> Launched Oct 2025 · 13k+ followers · 1,100+ badge holders · 3 phases complete · Strong floor, <3% listed · **AI Tools Live**.
 
 ## Official Channels & Markets
 
@@ -11,6 +11,7 @@
 | :--- | :--- | :--- |
 | X | [@neukoai](https://x.com/neukoai) | All videos, announcements, puzzles |
 | Website | [neuko.ai](https://neuko.ai) | PIN-locked portal + console clues |
+| AI Tool | [gboyspecial.com](https://gboyspecial.com) | **[NEW]** Create G*Boy art with AI |
 | Telegram | [t.me/neukoai](https://t.me/neukoai) | Community chat |
 | Badges (ME) | [Magic Eden](https://magiceden.io/marketplace/gboy_badges) | Buy/trade Rabbit/Moth/Snake |
 | Badges (Tensor) | [Tensor](https://tensor.trade/trade/gboy_badges) | Alternative marketplace |
@@ -33,6 +34,7 @@
 2.  Watch every video in order → see [Transmissions](./transmissions/overview.md)
 3.  Read [Timeline](./timeline.md) → [Lore](./lore.md) → [Badges](./badges.md) pages
 4.  (Optional) Buy a badge on ME/Tensor or earn via community gifting
+5.  Create art on [gboyspecial.com](https://gboyspecial.com)
 
 ## Quick FAQ
 
