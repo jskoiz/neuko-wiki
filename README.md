@@ -4,7 +4,7 @@
 
 > This is a community-maintained resource. It is not official documentation from the Neuko team.
 
-![](https://neuko-random-image.vercel.app/image.png)
+<div data-with-frame="true"><img src="https://neuko-random-image.vercel.app/image.png" alt=""></div>
 
 ## Where to Start
 
