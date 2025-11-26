@@ -36,6 +36,7 @@ Marked the transition from "consuming" lore to "creating" content. It gave the c
 ## Related Posts
 
 *   [Post #11: Meanwhile in St. Juniper](post-11.md) - Previous post
+*   [Post #13](post-13.md) - Next post
 
 ## Related Resources
 

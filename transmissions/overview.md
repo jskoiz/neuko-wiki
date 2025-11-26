@@ -22,6 +22,7 @@ All posts are documented individually:
 * [**Post #10: "Catch Up, Sneeb" - Claymation Lore Dump**](posts/post-10.md) - November 12, 2025
 * [**Post #11: \[Title TBD\]**](posts/post-11.md) - November 14, 2025
 * [**Post #12: \[Title TBD\]**](posts/post-12.md) - November 19, 2025
+* [**Post #13: \[Title TBD\]**](posts/post-13.md) - _(Date TBD)_
 
 ## Engagement Summary
 
