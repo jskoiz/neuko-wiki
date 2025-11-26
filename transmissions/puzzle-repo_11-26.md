@@ -2,7 +2,7 @@
 
 **Code:** `15.1.27.53.14`
 
-![friend_1.png](../media/images/friends/friend_1.png)
+![friend_1.png](../media/images/friends/friend_1_alt.png)
 
 ---
 
