@@ -34,6 +34,8 @@ https://x.com/TheNFTDuke/status/1992932374556893479
 
 **Code:** `24.20`
 
+majorblazer
+https://x.com/majorblaz3r/status/1991939857099436427
 ![friend_4.png](../media/images/friends/friend_4.png)
 
 ---
